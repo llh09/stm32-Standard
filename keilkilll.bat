@@ -27,5 +27,4 @@ del *.map /s
 
 del *.uvoptx /s
 del *.uvguix* /s
-del *.dbgconf /s
 exit
